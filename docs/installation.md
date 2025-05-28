@@ -172,3 +172,5 @@ rm $Env:USERPROFILE\applications.json
 rm $Env:USERPROFILE\.config\whkdrc
 rm -r -Force $Env:LOCALAPPDATA\komorebi
 ```
+
+Optionally, you can uncheck "Turn off all unnecessary animations (when possible)" if you did during installation.
